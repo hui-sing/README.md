@@ -1,9 +1,7 @@
 
-<h1 align="center">"66 111 98 111"</h1>
+<h1 align="center">"Hello 我是林幸慧"</h1>
 
 - 🎓 NTUT ISLAB
-
-- 🎯 My personal schedule for forums/competitions [/Schedule]()
 
 - ⛳ CTF writeups on [/My-CTF-Challenges]() 
 
