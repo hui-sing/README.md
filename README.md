@@ -3,7 +3,7 @@
 
 - 🎓 NTUT ISLAB
 
-- ⛳ CTF writeups on [/My-CTF-Challenges]() 
+- ⛳ CTF writeups on [/My-CTF-Challenges](https://github.com/hui-sing/CTF-Writeup.git) 
 
 - 📫 How to reach me **singhanlin13@gmail.com**
 
