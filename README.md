@@ -3,7 +3,7 @@
 
 - 🎓 NTUT ISLAB
 
-- 📄 About me on [/About-me]()
+- 📄 About me on [/About-me](https://github.com/hui-sing/About-me.git)
 
 - ⛳ CTF writeups on [/My-CTF-Challenges](https://github.com/hui-sing/CTF-Writeup.git) 
 
